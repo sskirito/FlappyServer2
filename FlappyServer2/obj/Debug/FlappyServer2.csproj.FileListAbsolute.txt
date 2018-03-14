@@ -1,0 +1,32 @@
+c:\users\caiyx\documents\visual studio 2017\Projects\FlappyServer2\FlappyServer2\obj\Debug\FlappyServer2.csprojResolveAssemblyReference.cache
+c:\users\caiyx\documents\visual studio 2017\Projects\FlappyServer2\FlappyServer2\obj\Debug\FlappyServer2.csproj.CoreCompileInputs.cache
+c:\users\caiyx\documents\visual studio 2017\Projects\FlappyServer2\FlappyServer2\bin\Debug\FlappyServer2.exe.config
+c:\users\caiyx\documents\visual studio 2017\Projects\FlappyServer2\FlappyServer2\bin\Debug\FlappyServer2.exe
+c:\users\caiyx\documents\visual studio 2017\Projects\FlappyServer2\FlappyServer2\bin\Debug\FlappyServer2.pdb
+c:\users\caiyx\documents\visual studio 2017\Projects\FlappyServer2\FlappyServer2\bin\Debug\EntityFramework.dll
+c:\users\caiyx\documents\visual studio 2017\Projects\FlappyServer2\FlappyServer2\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\caiyx\documents\visual studio 2017\Projects\FlappyServer2\FlappyServer2\bin\Debug\System.Data.SQLite.dll
+c:\users\caiyx\documents\visual studio 2017\Projects\FlappyServer2\FlappyServer2\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\caiyx\documents\visual studio 2017\Projects\FlappyServer2\FlappyServer2\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\caiyx\documents\visual studio 2017\Projects\FlappyServer2\FlappyServer2\bin\Debug\EntityFramework.xml
+c:\users\caiyx\documents\visual studio 2017\Projects\FlappyServer2\FlappyServer2\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\caiyx\documents\visual studio 2017\Projects\FlappyServer2\FlappyServer2\bin\Debug\System.Data.SQLite.xml
+c:\users\caiyx\documents\visual studio 2017\Projects\FlappyServer2\FlappyServer2\bin\Debug\System.Data.SQLite.dll.config
+c:\users\caiyx\documents\visual studio 2017\Projects\FlappyServer2\FlappyServer2\obj\Debug\FlappyServer2.exe
+c:\users\caiyx\documents\visual studio 2017\Projects\FlappyServer2\FlappyServer2\obj\Debug\FlappyServer2.pdb
+C:\Users\admin\Desktop\FlappyServer2\FlappyServer2\bin\Debug\FlappyServer2.exe.config
+C:\Users\admin\Desktop\FlappyServer2\FlappyServer2\bin\Debug\FlappyServer2.exe
+C:\Users\admin\Desktop\FlappyServer2\FlappyServer2\bin\Debug\FlappyServer2.pdb
+C:\Users\admin\Desktop\FlappyServer2\FlappyServer2\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\FlappyServer2\FlappyServer2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\FlappyServer2\FlappyServer2\bin\Debug\System.Data.SQLite.dll
+C:\Users\admin\Desktop\FlappyServer2\FlappyServer2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\admin\Desktop\FlappyServer2\FlappyServer2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\admin\Desktop\FlappyServer2\FlappyServer2\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\FlappyServer2\FlappyServer2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\FlappyServer2\FlappyServer2\bin\Debug\System.Data.SQLite.xml
+C:\Users\admin\Desktop\FlappyServer2\FlappyServer2\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\admin\Desktop\FlappyServer2\FlappyServer2\obj\Debug\FlappyServer2.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\FlappyServer2\FlappyServer2\obj\Debug\FlappyServer2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\FlappyServer2\FlappyServer2\obj\Debug\FlappyServer2.exe
+C:\Users\admin\Desktop\FlappyServer2\FlappyServer2\obj\Debug\FlappyServer2.pdb
